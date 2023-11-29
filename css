@@ -1,0 +1,14 @@
+.fa-facebook-f {
+    color: #3059b3; /* Cambia el color del icono de Facebook a azul */
+}
+
+.fa-instagram {
+    color: #e4405f; /* Cambia el color del icono de Instagram a rosa */
+}
+
+.fa-twitter {
+    color: #1da1f2; /* Cambia el color del icono de Twitter a azul claro */
+}
+.fa-facebook-f:hover, .fa-instagram:hover, .fa-twitter:hover {
+    transform: translate(5px, -5px); /* Hace que los iconos se muevan 5px hacia la derecha y 5px hacia arriba al pasar el mouse sobre ellos */
+}
